@@ -1,0 +1,4 @@
+---
+slug: anthropocene
+name: anthropocene
+---

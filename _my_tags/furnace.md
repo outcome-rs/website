@@ -1,0 +1,4 @@
+---
+slug: furnace
+name: furnace
+---
