@@ -7,7 +7,7 @@ tags:
   - engine
   - design
 permalink: "/blog/static-or-dynamic-model"
-published: true
+published: false
 ---
 
 <meta property="og:image" content="https://images.unsplash.com/photo-1512439408685-2e399291a4e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=530&h=300&q=80"/>

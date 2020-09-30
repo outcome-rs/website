@@ -7,7 +7,7 @@ tags:
   - engine
   - design
 permalink: "/blog/entity-component-architecture"
-published: true
+published: false
 ---
 
 <meta property="og:image" content="https://images.unsplash.com/photo-1517373116369-9bdb8cdc9f62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=530&h=300&q=80"/>

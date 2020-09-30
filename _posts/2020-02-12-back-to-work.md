@@ -17,6 +17,4 @@ It looks like in the coming months I will finally have some time to put into thi
 
 I've been thinking about some of the issues with some of the design decisions I've made during development so far, and there's definitely room for improvement. That said, there are some aspects that I very much like and will attempt to expand upon.
 
-I'm really excited about putting more time into this project. To keep myself motivated I'll be posting regular updates here, at least once a month, sharing some of the thoughs I stumble upon and progress I make along the way.
-
-Let's do this.
+I'm really excited about putting more time into this project. Let's do this!

@@ -5,7 +5,7 @@ description: ""
 tags:
   - devlog
 permalink: "/blog/component-based-state-machine-logic"
-published: true
+published: false
 ---
 
 <meta property="og:image" content="https://images.unsplash.com/photo-1580432522609-d073f3f4b4f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=530&h=300&q=80"/>

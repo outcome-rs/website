@@ -1,15 +1,16 @@
 ---
 layout: page
-title: The Outcome Project - Open Source Distributed Simulation Software
+title: The Outcome Project - Distributed Simulation Made Simple
 nopostfix: true
 ---
 
 <div class="page" markdown="1">
 
 <div style="font-size: 24px" markdown="1">
+
 Creating an open source **distributed simulation** solution that's fast, flexible and easy to use.
 
-Aiming at enabling **open, collaborative work on complex models** --- from multiplayer game worlds and domain specific experiments to organic city systems and full-scale economies.
+The goal is to enable **open, collaborative work on complex models** --- from multiplayer game worlds and domain specific experiments to organic city systems and full-scale economies.
 
 
 </div>
@@ -19,10 +20,6 @@ Aiming at enabling **open, collaborative work on complex models** --- from multi
 ## Why is this needed?
 
 Because we are currently facing a lack of open, easy to use tools enabling modeling and simulation of complex emergent systems in a scalable way.
-
-Developing such tools, and making sure they will be accessible to the average person, has enormous potential to change how we approach complex problems --- both as individuals and as a society. 
-
-It can also enable people to create cool new experiences, games and art that would be impossible without this kind of technology.
 
 <br>
 

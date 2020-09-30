@@ -7,7 +7,7 @@ tags:
   - engine
   - design
 permalink: "/blog/outlining-the-execution-scheme"
-published: true
+published: false
 ---
 
 <meta property="og:image" content="https://images.unsplash.com/photo-1568057373106-63057e421d1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=534&h=300&q=80"/>
