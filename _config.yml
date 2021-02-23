@@ -28,7 +28,7 @@ blog:
 # Author info
 author:
   fullname                  : adamsky
-  itch                      : adamsky.itch.io
+  #itch                      : adamsky.itch.io
   rss                       : true 
   mail                      : outcome@enum.space
   reddit                    : r/TheOutcome

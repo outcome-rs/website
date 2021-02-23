@@ -11,8 +11,6 @@ permalink: /status/
 
 Project is currently **active**, though worked on mainly in spare time and on the weekends.
 
-As of late 2020, major rewrite of the engine is nearing completion. Stay tuned.
-
 -----
 
 Much of the core design work has been completed. Some experimental software has already been written and is currently being expanded upon. There is still much work to be done until a large-scale demo can be presented.

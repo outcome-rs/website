@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Development Blog
-permalink: /blog/
+title: Project News
+permalink: /news/
 weight: 5
 sitemap:
   priority: 0.9
@@ -33,8 +33,8 @@ sitemap:
       tagi w archiwum <span class="post-tag right">{{ tags_content }}</span>
       {% endcomment %}
 
-     {% endfor %}
   	 </ul>
+     {% endfor %}
 
 
   {% comment %}
