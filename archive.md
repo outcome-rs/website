@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project News
-permalink: /news/
+title: Project Blog
+permalink: /blog/
 weight: 5
 sitemap:
   priority: 0.9
